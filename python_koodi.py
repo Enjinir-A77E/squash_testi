@@ -1,1 +1,1 @@
-print("Tähän tiedostoon tulee koodit")
+print("Tahan tiedostoon tulee koodit")
